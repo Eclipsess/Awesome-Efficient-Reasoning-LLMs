@@ -2,7 +2,7 @@
 
 ## News 📢
 
-- **March 2025**: We released our survey paper "[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.05179)
+- **March 2025**: We released our survey paper "[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.16419)
 ". Welcome! We appreciate your contributions of new papers and pull requests.
 
 ## Section I:  RL with Length Reward Design
