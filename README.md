@@ -5,6 +5,9 @@
 - **March 2025**: We released our survey paper "[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.16419)
 ". Welcome! We appreciate your contributions of new papers and pull requests.
 
+- Last Update: March 2025.
+- Keep Updated...
+
 ## Section I:  RL with Length Reward Design
 
 * Demystifying Long Chain-of-Thought Reasoning in LLMs 
