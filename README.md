@@ -11,16 +11,9 @@
   Feel free to cite, contribute, or open a pull request to add recent related papers!
 
 <!-- omit in toc -->
-## 👀 Introduction
 
-
-# Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models
+## Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models
 ![Pipeline](./figs/pipeline.png)
-
-Welcome to the official repository for our survey paper:  
-**_Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models_**
-
-Here, you'll find resources, updates, and supplementary materials related to our work.
 
 In this paper, we present the first structured survey that systematically investigates and organizes the current progress in achieving **efficient reasoning in LLMs**.
 
@@ -51,10 +44,6 @@ We categorize existing research into the following key directions:
 - **Evaluation methods and benchmarks** for assessing reasoning efficiency
 
 ---
-
-For a detailed overview, please refer to the [full paper](https://arxiv.org/abs/2503.16419).
-
-
 
 <!-- omit in toc -->
 ## 📚 Table of Contents
