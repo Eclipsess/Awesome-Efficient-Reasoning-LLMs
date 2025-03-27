@@ -38,7 +38,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
   - **Input Prompt-based Efficient Reasoning**
     - [Section V: Prompt-Guided Efficient Reasoning](#section-v-prompt-guided-efficient-reasoning)
     - [Section VI: Prompts Attribute-Driven Reasoning Routing](#section-vi-prompts-attribute-driven-reasoning-routing)
-  - **Reasoning Abilitied with Efficient Data and Small Language Models**
+  - **Reasoning Abilities with Efficient Data and Small Language Models**
     - [Section VII: Reasoning Abilities via Efficient Training Data and Model Compression](#section-vii-reasoning-abilities-via-efficient-training-data-and-model-compression)
   - **Evaluation and Benchmark**
     - [Section VIII: Evaluation and Benchmark](#section-viii-evaluation-and-benchmark)
