@@ -49,15 +49,19 @@ We categorize existing research into the following key directions:
 ## 📚 Table of Contents
 
 - [Awesome-Efficient-Reasoning-LLM](#awesome-efficient-reasoning-llm)
-  - [Section I: RL with Length Reward Design](#section-i-rl-with-length-reward-design)
-  - [Section II: SFT with Variable-Length CoT Data](#section-ii-sft-with-variable-length-cot-data)
-  - [Section III: Compressing Reasoning Steps into Fewer Latent Representation](#section-iii-compressing-reasoning-steps-into-fewer-latent-representation)
-  - [Section IV: Dynamic Reasoning Paradigm during Inference](#section-iv-dynamic-reasoning-paradigm-during-inference)
-  - [Section V: Prompt-Guided Efficient Reasoning](#section-v-prompt-guided-efficient-reasoning)
-  - [Section VI: Prompts Attribute-Driven Reasoning Routing](#section-vi-prompts-attribute-driven-reasoning-routing)
-  - [Section VII: Reasoning Abilities via Efficient Training Data and Model Compression](#section-vii-reasoning-abilities-via-efficient-training-data-and-model-compression)
-  - [Section VIII: Evaluation and Benchmark](#section-viii-evaluation-and-benchmark)
-  - [Citation](#citation)
+  - **Model-based Efficient Reasoning**
+    - [Section I: RL with Length Reward Design](#section-i-rl-with-length-reward-design)
+    - [Section II: SFT with Variable-Length CoT Data](#section-ii-sft-with-variable-length-cot-data)
+  - **Reasoning Output-based Efficient Reasoning**
+    - [Section III: Compressing Reasoning Steps into Fewer Latent Representation](#section-iii-compressing-reasoning-steps-into-fewer-latent-representation)
+    - [Section IV: Dynamic Reasoning Paradigm during Inference](#section-iv-dynamic-reasoning-paradigm-during-inference)
+  - **Input Prompt-based Efficient Reasoning**
+    - [Section V: Prompt-Guided Efficient Reasoning](#section-v-prompt-guided-efficient-reasoning)
+    - [Section VI: Prompts Attribute-Driven Reasoning Routing](#section-vi-prompts-attribute-driven-reasoning-routing)
+  - **Reasoning Abilitied with Efficient Data and Small Language Models**
+    - [Section VII: Reasoning Abilities via Efficient Training Data and Model Compression](#section-vii-reasoning-abilities-via-efficient-training-data-and-model-compression)
+  - **Evaluation and Benchmark**
+    - [Section VIII: Evaluation and Benchmark](#section-viii-evaluation-and-benchmark)
 
 
 ---
