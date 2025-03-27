@@ -23,26 +23,6 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 
 ![Taxonomy](./figs/taxonomy.png)
 
-
-## 🔍 Key Directions
-
-We categorize existing research into the following key directions:
-
-1. **Model-based Efficient Reasoning**  
-   Techniques that optimize full-length reasoning models into more concise variants, or directly train models for efficient reasoning.
-
-2. **Reasoning Output-based Efficient Reasoning**  
-   Methods that reduce reasoning steps and output length dynamically during inference.
-
-3. **Input Prompt-based Efficient Reasoning**  
-   Approaches that enhance reasoning efficiency through tailored prompt design or manipulation.
-
-## 📌 Additional Topics
-
-- The role of **efficient data** in training reasoning-capable models  
-- The reasoning potential of **small language models**  
-- **Evaluation methods and benchmarks** for assessing reasoning efficiency
-
 ---
 
 <!-- omit in toc -->
