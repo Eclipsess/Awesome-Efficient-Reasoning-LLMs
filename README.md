@@ -1,4 +1,4 @@
-# Awesome-Efficient-Reasoning-LLM
+# Awesome-Efficient-Reasoning-LLMs
 
 [![arXiv](https://img.shields.io/badge/arXiv-Stop_Overthinking-b31b1b.svg)](https://arxiv.org/abs/2503.16419)
 <!-- [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() <!-- Optional: Link to GitHub repo -->
