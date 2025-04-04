@@ -7,7 +7,7 @@
 
 <!-- omit in toc -->
 ## 📢 News
-- **March 2025**: We released our survey paper "[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.16419)".  
+- **March 2025**: We release the first survey for efficient reasoning of LLMs "[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.16419)".  
   Feel free to cite, contribute, or open a pull request to add recent related papers!
 
 <!-- omit in toc -->
