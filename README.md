@@ -13,7 +13,7 @@
 <!-- omit in toc -->
 
 ## Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models
-![Pipeline](./figs/pipeline.png)
+![Pipeline](./figs/pipeline1.png)
 
 In this paper, we present the first structured survey that systematically investigates and organizes the current progress in achieving **efficient reasoning in LLMs**.
 
