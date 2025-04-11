@@ -88,6 +88,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding [[Paper]](https://arxiv.org/pdf/2503.01422) ![](https://img.shields.io/badge/pdf-2025.03-red)
 * LightThinker: Thinking Step-by-Step Compression (training LLMs to compress thoughts into gist tokens) [[Paper]](https://arxiv.org/pdf/2502.15589) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models [[Paper]](https://www.arxiv.org/pdf/2503.06692) ![](https://img.shields.io/badge/pdf-2025.03-red)
+* SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning [[Paper]](https://arxiv.org/abs/2504.07891) ![](https://img.shields.io/badge/pdf-2025.04-red)
   
 ## Section V: Prompt-Guided Efficient Reasoning
 
