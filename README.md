@@ -158,6 +158,11 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling [[Paper]](https://arxiv.org/pdf/2502.06703) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks [[Paper]](https://arxiv.org/pdf/2502.08235) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Inference-Time Computations for LLM Reasoning and Planning: A Benchmark and Insights [[Paper]](https://arxiv.org/pdf/2502.12521) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs [[Paper]]https://arxiv.org/pdf/2406.09324() ![](https://img.shields.io/badge/pdf-2024.11-red)
+* The Impact of Reasoning Step Length on Large Language Models [[Paper]](https://arxiv.org/html/2401.04925v3) ![](https://img.shields.io/badge/pdf-2024.01-red)
+* S1-bench: A simple benchmark for evaluating system 1 thinking capability of large reasoning models [[Paper]](https://arxiv.org/pdf/2504.10368) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* When reasoning meets compression: Benchmarking compressed large reasoning models on complex reasoning tasks. [[Paper]](https://arxiv.org/pdf/2504.02010) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Quantization Hurts Reasoning? An Empirical Study on Quantized Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.04823) ![](https://img.shields.io/badge/pdf-2025.04-red)
 
 
 
