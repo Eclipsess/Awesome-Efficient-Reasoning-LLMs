@@ -99,12 +99,10 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models [[Paper]](https://www.arxiv.org/pdf/2503.06692) ![](https://img.shields.io/badge/pdf-2025.03-red)
 * Reasoning Without Self-Doubt: More Efficient Chain-of-Thought Through Certainty Probing [[Paper]](https://openreview.net/pdf?id=wpK4IMJfdX) ![](https://img.shields.io/badge/pdf-2025.03-red)
 * SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning [[Paper]](https://arxiv.org/abs/2504.07891) ![](https://img.shields.io/badge/pdf-2025.04-red)
-  
 * AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence [[Paper]](https://arxiv.org/pdf/2502.13943) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time [[Paper]](https://arxiv.org/pdf/2504.12329) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Can atomic step decomposition enhance the self-structured reasoning of multimodal large models? [[Paper]](https://arxiv.org/pdf/2503.06252) ![](https://img.shields.io/badge/pdf-2025.03-red)
-* Think smarter not harder:
-Adaptive reasoning with inference aware optimization [[Paper]](https://arxiv.org/pdf/2501.17974) ![](https://img.shields.io/badge/pdf-2025.01-red)
+* Think smarter not harder: Adaptive reasoning with inference aware optimization [[Paper]](https://arxiv.org/pdf/2501.17974) ![](https://img.shields.io/badge/pdf-2025.01-red)
 * Reasoning Aware Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling [[Paper]](https://arxiv.org/pdf/2408.17017) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * ESCAPE SKY-HIGH COST: EARLY-STOPPING SELF-CONSISTENCY FOR MULTI-STEP REASONING [[Paper]](https://arxiv.org/pdf/2401.10480) ![](https://img.shields.io/badge/pdf-2024.01-red)
 * Confidence Improves Self-Consistency in LLMs [[Paper]](https://arxiv.org/pdf/2502.06233) ![](https://img.shields.io/badge/pdf-2025.02-red)
@@ -117,8 +115,7 @@ Adaptive reasoning with inference aware optimization [[Paper]](https://arxiv.org
 * Retro-search: Exploring untaken paths for deeper and efficient reasoning [[Paper]](https://arxiv.org/pdf/2504.04383) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Thought manipulation: External thought can be efficient for large reasoning models [[Paper]](https://arxiv.org/pdf/2504.13626) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Sleep-time compute: Beyond inference scaling at test-time [[Paper]](https://arxiv.org/pdf/2504.13171) ![](https://img.shields.io/badge/pdf-2025.04-red)
-* Unlocking the
-capabilities of thought: A reasoning boundary framework to quantify and optimize chain-of-thought [[Paper]](https://arxiv.org/pdf/2410.05695) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Unlocking the capabilities of thought: A reasoning boundary framework to quantify and optimize chain-of-thought [[Paper]](https://arxiv.org/pdf/2410.05695) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.13367) ![](https://img.shields.io/badge/pdf-2025.04-red)
 
 
