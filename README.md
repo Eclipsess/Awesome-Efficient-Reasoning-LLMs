@@ -71,7 +71,6 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2502.13260) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Z1: Efficient Test-time Scaling with Code [[Paper]](https://arxiv.org/pdf/2504.00810) ![](https://img.shields.io/badge/pdf-2025.04-red)
 
-
 ## Section III: Compressing Reasoning Steps into Fewer Latent Representation
 
 * Training Large Language Models to Reason in a Continuous Latent Space [[Paper]](https://arxiv.org/pdf/2412.06769) ![](https://img.shields.io/badge/pdf-2024.12-red)
