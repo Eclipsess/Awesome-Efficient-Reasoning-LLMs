@@ -117,7 +117,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Sleep-time compute: Beyond inference scaling at test-time [[Paper]](https://arxiv.org/pdf/2504.13171) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Unlocking the capabilities of thought: A reasoning boundary framework to quantify and optimize chain-of-thought [[Paper]](https://arxiv.org/pdf/2410.05695) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.13367) ![](https://img.shields.io/badge/pdf-2025.04-red)
-
+* Dynamic Early Exit in Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.15895) ![](https://img.shields.io/badge/pdf-2025.04-red)
 
 ## Section V: Prompt-Guided Efficient Reasoning
 
