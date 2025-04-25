@@ -104,7 +104,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Can atomic step decomposition enhance the self-structured reasoning of multimodal large models? [[Paper]](https://arxiv.org/pdf/2503.06252) ![](https://img.shields.io/badge/pdf-2025.03-red)
 * Think smarter not harder: Adaptive reasoning with inference aware optimization [[Paper]](https://arxiv.org/pdf/2501.17974) ![](https://img.shields.io/badge/pdf-2025.01-red)
 * Reasoning Aware Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling [[Paper]](https://arxiv.org/pdf/2408.17017) ![](https://img.shields.io/badge/pdf-2025.02-red)
-* ESCAPE SKY-HIGH COST: EARLY-STOPPING SELF-CONSISTENCY FOR MULTI-STEP REASONING [[Paper]](https://arxiv.org/pdf/2401.10480) ![](https://img.shields.io/badge/pdf-2024.01-red)
+* Escape Sky-high Cost: Early-stopping Self-Consistency for Multi-step Reasoning [[Paper]](https://arxiv.org/pdf/2401.10480) ![](https://img.shields.io/badge/pdf-2024.01-red)
 * Confidence Improves Self-Consistency in LLMs [[Paper]](https://arxiv.org/pdf/2502.06233) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Make every penny count: Difficulty-adaptive self-consistency for cost-efficient reasoning [[Paper]](https://arxiv.org/pdf/2408.13457) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Path-consistency: Prefix enhancement for efficient inference in llm [[Paper]](https://arxiv.org/pdf/2409.01281) ![](https://img.shields.io/badge/pdf-2025.03-red)
