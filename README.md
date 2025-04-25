@@ -55,6 +55,9 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning [[Paper]](https://www.arxiv.org/pdf/2503.04697) ![](https://img.shields.io/badge/pdf-2025.03-red)
 * DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models [[Paper]](https://arxiv.org/pdf/2503.04472) ![](https://img.shields.io/badge/pdf-2025.03-red)
 * Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning [[Paper]](https://arxiv.org/pdf/2503.07572) ![](https://img.shields.io/badge/pdf-2025.03-red)
+* HAWKEYE: Efficient Reasoning with Model Collaboration [[Paper]](https://arxiv.org/pdf/2504.00424) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* THINKPRUNE: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2504.01296) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Think When You Need: Self-Adaptive Chain-of-Thought Learning [[Paper]](https://arxiv.org/pdf/2504.03234) ![](https://img.shields.io/badge/pdf-2025.04-red)
 
 ## Section II: SFT with Variable-Length CoT Data
 
@@ -65,6 +68,8 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Distilling System 2 into System 1 [[Paper]](https://arxiv.org/pdf/2407.06023) ![](https://img.shields.io/badge/pdf-2024.07-red)
 * Can Language Models Learn to Skip Steps? [[Paper]](https://arxiv.org/pdf/2411.01855) ![](https://img.shields.io/badge/pdf-2024.11-red)
 * Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2502.13260) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* Z1: Efficient Test-time Scaling with Code [[Paper]](https://arxiv.org/pdf/2504.00810) ![](https://img.shields.io/badge/pdf-2025.04-red)
+
 
 ## Section III: Compressing Reasoning Steps into Fewer Latent Representation
 
@@ -75,6 +80,9 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning [[Paper]](https://arxiv.org/pdf/2502.03275) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Reasoning with Latent Thoughts: On the Power of Looped Transformers [[Paper]](https://arxiv.org/pdf/2502.17416) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation [[Paper]](https://arxiv.org/pdf/2502.21074) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* Efficient Reasoning with Hidden Thinking [[Paper]](https://arxiv.org/pdf/2501.19201) ![](https://img.shields.io/badge/pdf-2025.01-red)
+* Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning [[Paper]](https://arxiv.org/pdf/2502.03275) ![](https://img.shields.io/badge/pdf-2025.02-red)
+
 
 ## Section IV: Dynamic Reasoning Paradigm during Inference
 
@@ -91,6 +99,28 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Reasoning Without Self-Doubt: More Efficient Chain-of-Thought Through Certainty Probing [[Paper]](https://openreview.net/pdf?id=wpK4IMJfdX) ![](https://img.shields.io/badge/pdf-2025.03-red)
 * SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning [[Paper]](https://arxiv.org/abs/2504.07891) ![](https://img.shields.io/badge/pdf-2025.04-red)
   
+* AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence [[Paper]](https://arxiv.org/pdf/2502.13943) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time [[Paper]](https://arxiv.org/pdf/2504.12329) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Can atomic step decomposition enhance the self-structured reasoning of multimodal large models? [[Paper]](https://arxiv.org/pdf/2503.06252) ![](https://img.shields.io/badge/pdf-2025.03-red)
+* Think smarter not harder:
+Adaptive reasoning with inference aware optimization [[Paper]](https://arxiv.org/pdf/2501.17974) ![](https://img.shields.io/badge/pdf-2025.01-red)
+* Reasoning Aware Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling [[Paper]](https://arxiv.org/pdf/2408.17017) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* ESCAPE SKY-HIGH COST: EARLY-STOPPING SELF-CONSISTENCY FOR MULTI-STEP REASONING [[Paper]](https://arxiv.org/pdf/2401.10480) ![](https://img.shields.io/badge/pdf-2024.01-red)
+* Confidence Improves Self-Consistency in LLMs [[Paper]](https://arxiv.org/pdf/2502.06233) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* Make every penny count: Difficulty-adaptive self-consistency for cost-efficient reasoning [[Paper]](https://arxiv.org/pdf/2408.13457) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* Path-consistency: Prefix enhancement for efficient inference in llm [[Paper]](https://arxiv.org/pdf/2409.01281) ![](https://img.shields.io/badge/pdf-2025.03-red)
+* Bridging internal probability and self-consistency for effective and efficient llm reasoning [[Paper]](https://arxiv.org/pdf/2502.00511) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* Towards thinking-optimal scaling of test-time compute for llm reasoning [[Paper]](https://arxiv.org/pdf/2502.18080) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* Think Deep, Think Fast: Investigating Efficiency of Verifier-free Inference-time-scaling Methods[[Paper]](https://arxiv.org/pdf/2504.14047) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Reasoning models can be effective without thinking [[Paper]](https://arxiv.org/pdf/2504.09858) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Retro-search: Exploring untaken paths for deeper and efficient reasoning [[Paper]](https://arxiv.org/pdf/2504.04383) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Thought manipulation: External thought can be efficient for large reasoning models [[Paper]](https://arxiv.org/pdf/2504.13626) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Sleep-time compute: Beyond inference scaling at test-time [[Paper]](https://arxiv.org/pdf/2504.13171) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Unlocking the
+capabilities of thought: A reasoning boundary framework to quantify and optimize chain-of-thought [[Paper]](https://arxiv.org/pdf/2410.05695) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.13367) ![](https://img.shields.io/badge/pdf-2025.04-red)
+
+
 ## Section V: Prompt-Guided Efficient Reasoning
 
 * Token-Budget-Aware LLM Reasoning [[Paper]](https://arxiv.org/pdf/2412.18547) ![](https://img.shields.io/badge/pdf-2025.02-red)
@@ -120,7 +150,12 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Probe then retrieve and reason: Distilling probing and reasoning capabilities into smaller language models [[Paper]](https://aclanthology.org/2024.lrec-main.1140.pdf) ![](https://img.shields.io/badge/pdf-2024.05-red)
 * Distilling Reasoning Ability from Large Language Models with Adaptive Thinking [[Paper]](https://arxiv.org/pdf/2404.09170) ![](https://img.shields.io/badge/pdf-2024.08-red)
 * SKIntern: Internalizing Symbolic Knowledge for Distilling Better CoT Capabilities into Small Language Models [[Paper]](https://arxiv.org/pdf/2409.13183) ![](https://img.shields.io/badge/pdf-2024.12-red)
-  
+* TinyR1-32B-Preview: Boosting Accuracy with Branch-Merge Distillation [[Paper]](https://arxiv.org/pdf/2503.04872) ![](https://img.shields.io/badge/pdf-2025.03-red)
+* Improving mathematical reasoning capabilities of small language models via feedback-driven distillation [[Paper]](https://arxiv.org/pdf/2411.14698) ![](https://img.shields.io/badge/pdf-2024.11-red)
+* Probe then retrieve and reason: Distilling probing and reasoning capabilities into smaller language models [[Paper]](https://arxiv.org/pdf/2212.00193) ![](https://img.shields.io/badge/pdf-2023.05-red)
+* TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers’ Guidance [[Paper]](https://arxiv.org/pdf/2503.24198) ![](https://img.shields.io/badge/pdf-2025.03-red)
+* When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks [[Paper]](https://arxiv.org/pdf/2504.02010) ![](https://img.shields.io/badge/pdf-2025.04-red)
+
 ## Section VIII: Evaluation and Benchmark
 * Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling [[Paper]](https://arxiv.org/pdf/2502.06703) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks [[Paper]](https://arxiv.org/pdf/2502.08235) ![](https://img.shields.io/badge/pdf-2025.02-red)
