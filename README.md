@@ -11,6 +11,7 @@
   Feel free to cite, contribute, or open a pull request to add recent related papers!
 - **April 22, 2025**: Updated.
   
+
 <!-- omit in toc -->
 ![Pipeline](./figs/pipeline1.png)
 
@@ -70,6 +71,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Can Language Models Learn to Skip Steps? [[Paper]](https://arxiv.org/pdf/2411.01855) ![](https://img.shields.io/badge/pdf-2024.11-red)
 * Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2502.13260) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Z1: Efficient Test-time Scaling with Code [[Paper]](https://arxiv.org/pdf/2504.00810) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2505.03469) ![](https://img.shields.io/badge/pdf-2025.05-red)
 
 ## Section III: Compressing Reasoning Steps into Fewer Latent Representation
 
