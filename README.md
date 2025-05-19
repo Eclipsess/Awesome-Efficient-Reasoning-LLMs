@@ -171,11 +171,14 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 ## Citation
 If you find this work useful, welcome to cite us.
 ```bib
-@article{sui2025stop,
-  title={Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models},
-  author={Sui, Yang and Chuang, Yu-Neng and Wang, Guanchu and Zhang, Jiamu and Zhang, Tianyi and Yuan, Jiayi and Liu, Hongyi and Wen, Andrew and Chen, Hanjie and Hu, Xia and others},
-  journal={arXiv preprint arXiv:2503.16419},
-  year={2025}
+@misc{sui2025stopoverthinkingsurveyefficient,
+      title={Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models}, 
+      author={Yang Sui and Yu-Neng Chuang and Guanchu Wang and Jiamu Zhang and Tianyi Zhang and Jiayi Yuan and Hongyi Liu and Andrew Wen and Shaochen Zhong and Hanjie Chen and Xia Hu},
+      year={2025},
+      eprint={2503.16419},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.16419}, 
 }
 ```
 
