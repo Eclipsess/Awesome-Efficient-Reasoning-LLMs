@@ -48,6 +48,8 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 
 <!--[[Paper]](pdf LINK) ![](https://img.shields.io/badge/pdf-< TIME >-red)-->
 
+"(.)" stands for "To Be Updated" in the survey paper.
+
 ## Section I:  RL with Length Reward Design
 
 * Demystifying Long Chain-of-Thought Reasoning in LLMs [[Paper]](https://arxiv.org/pdf/2502.03373) ![](https://img.shields.io/badge/pdf-2025.02-red)
@@ -60,6 +62,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * HAWKEYE: Efficient Reasoning with Model Collaboration [[Paper]](https://arxiv.org/pdf/2504.00424) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * THINKPRUNE: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2504.01296) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Think When You Need: Self-Adaptive Chain-of-Thought Learning [[Paper]](https://arxiv.org/pdf/2504.03234) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning (.) [[Paper]](https://arxiv.org/pdf/2505.11827) ![](https://img.shields.io/badge/pdf-2025.05-red)
 
 ## Section II: SFT with Variable-Length CoT Data
 
@@ -71,7 +74,9 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Can Language Models Learn to Skip Steps? [[Paper]](https://arxiv.org/pdf/2411.01855) ![](https://img.shields.io/badge/pdf-2024.11-red)
 * Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2502.13260) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Z1: Efficient Test-time Scaling with Code [[Paper]](https://arxiv.org/pdf/2504.00810) ![](https://img.shields.io/badge/pdf-2025.04-red)
-* Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2505.03469) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models (.) [[Paper]](https://arxiv.org/pdf/2505.03469) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models (.) [[Paper]](https://arxiv.org/pdf/2505.13975) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning (.) [[Paper]](https://arxiv.org/pdf/2505.11827) ![](https://img.shields.io/badge/pdf-2025.05-red)
 
 ## Section III: Compressing Reasoning Steps into Fewer Latent Representation
 
