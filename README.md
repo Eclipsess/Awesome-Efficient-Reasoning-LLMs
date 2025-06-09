@@ -90,7 +90,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation [[Paper]](https://arxiv.org/pdf/2502.21074) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Efficient Reasoning with Hidden Thinking [[Paper]](https://arxiv.org/pdf/2501.19201) ![](https://img.shields.io/badge/pdf-2025.01-red)
 * Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning [[Paper]](https://arxiv.org/pdf/2502.03275) ![](https://img.shields.io/badge/pdf-2025.02-red)
-* Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2502.10835) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models (.) [[Paper]](https://arxiv.org/pdf/2502.10835) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains (.) [[Paper]](https://arxiv.org/pdf/2505.16552) ![](https://img.shields.io/badge/pdf-2025.05-red)
 
 
@@ -127,7 +127,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Unlocking the capabilities of thought: A reasoning boundary framework to quantify and optimize chain-of-thought [[Paper]](https://arxiv.org/pdf/2410.05695) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.13367) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Dynamic Early Exit in Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.15895) ![](https://img.shields.io/badge/pdf-2025.04-red)
-* Accelerated Test-Time Scaling with Model-Free Speculative Sampling [[Paper]](https://arxiv.org/abs/2506.04708) ![](https://img.shields.io/badge/pdf-2025.06-red)
+* Accelerated Test-Time Scaling with Model-Free Speculative Sampling (.) [[Paper]](https://arxiv.org/abs/2506.04708) ![](https://img.shields.io/badge/pdf-2025.06-red)
 
 ## Section V: Prompt-Guided Efficient Reasoning
 
