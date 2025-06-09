@@ -5,7 +5,11 @@
 <!-- [![Last Commit](https://img.shields.io/github/last-commit/<your-username>/<repo-name>)]() <!-- Fill in your repo link -->
 <!-- [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]() --> 
 
+
 <!-- omit in toc -->
+
+## 📢 Want to add related papers? Feel free to open a pull request!
+
 ## 📢 News
 - **March 20, 2025**: We release the first survey for efficient reasoning of LLMs "[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.16419)".  
   Feel free to cite, contribute, or open a pull request to add recent related papers!
