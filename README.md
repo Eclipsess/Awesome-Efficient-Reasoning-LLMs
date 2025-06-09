@@ -63,6 +63,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * THINKPRUNE: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2504.01296) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Think When You Need: Self-Adaptive Chain-of-Thought Learning [[Paper]](https://arxiv.org/pdf/2504.03234) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning (.) [[Paper]](https://arxiv.org/pdf/2505.11827) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models (.) [[Paper]](https://arxiv.org/pdf/2505.17250) ![](https://img.shields.io/badge/pdf-2025.05-red)
 
 ## Section II: SFT with Variable-Length CoT Data
 
@@ -89,6 +90,8 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation [[Paper]](https://arxiv.org/pdf/2502.21074) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Efficient Reasoning with Hidden Thinking [[Paper]](https://arxiv.org/pdf/2501.19201) ![](https://img.shields.io/badge/pdf-2025.01-red)
 * Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning [[Paper]](https://arxiv.org/pdf/2502.03275) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2502.10835) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains (.) [[Paper]](https://arxiv.org/pdf/2505.16552) ![](https://img.shields.io/badge/pdf-2025.05-red)
 
 
 ## Section IV: Dynamic Reasoning Paradigm during Inference
