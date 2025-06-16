@@ -83,6 +83,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models (.) [[Paper]](https://arxiv.org/pdf/2505.03469) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models (.) [[Paper]](https://arxiv.org/pdf/2505.13975) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning (.) [[Paper]](https://arxiv.org/pdf/2505.11827) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models (.) [[Paper]](https://arxiv.org/pdf/2505.22662) ![](https://img.shields.io/badge/pdf-2025.05-red)
 
 ## Section III: Compressing Reasoning Steps into Fewer Latent Representation
 
