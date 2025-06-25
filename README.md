@@ -68,6 +68,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Think When You Need: Self-Adaptive Chain-of-Thought Learning [[Paper]](https://arxiv.org/pdf/2504.03234) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning (.) [[Paper]](https://arxiv.org/pdf/2505.11827) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models (.) [[Paper]](https://arxiv.org/pdf/2505.17250) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning (.) [[Paper]](https://arxiv.org/abs/2505.14582) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Bingo: Boosting Efficient Reasoning of LLMs via Dynamic and Significance-based Reinforcement Learning (.) [[Paper]](https://arxiv.org/pdf/2506.08125) ![](https://img.shields.io/badge/pdf-2025.06-red)
 
 ## Section II: SFT with Variable-Length CoT Data
