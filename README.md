@@ -135,6 +135,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Unlocking the capabilities of thought: A reasoning boundary framework to quantify and optimize chain-of-thought [[Paper]](https://arxiv.org/pdf/2410.05695) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.13367) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Dynamic Early Exit in Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.15895) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time [[Paper]](https://arxiv.org/pdf/2505.24863) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Accelerated Test-Time Scaling with Model-Free Speculative Sampling (.) [[Paper]](https://arxiv.org/abs/2506.04708) ![](https://img.shields.io/badge/pdf-2025.06-red)
 
 ## Section V: Prompt-Guided Efficient Reasoning
