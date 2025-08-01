@@ -73,6 +73,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 
 ## Section II: SFT with Variable-Length CoT Data
 
+* Assembly of Experts: Linear-time construction of the Chimera LLM variants with emergent and adaptable behaviors [[Paper]](https://arxiv.org/pdf/2506.14794) [[Model Card]](https://huggingface.co/tngtech/DeepSeek-TNG-R1T2-Chimera) [[Free access via OpenRouter]](https://openrouter.ai/tngtech/deepseek-r1t2-chimera:free) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * TokenSkip: Controllable Chain-of-Thought Compression in LLMs [[Paper]](https://arxiv.org/pdf/2502.12067) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness [[Paper]](https://arxiv.org/pdf/2412.11664) ![](https://img.shields.io/badge/pdf-2024.12-red)
 * CoT-Valve: Length-Compressible Chain-of-Thought Tuning [[Paper]](https://arxiv.org/pdf/2502.09601) ![](https://img.shields.io/badge/pdf-2025.02-red)
