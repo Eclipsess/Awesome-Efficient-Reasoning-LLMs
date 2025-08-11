@@ -66,9 +66,22 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * HAWKEYE: Efficient Reasoning with Model Collaboration [[Paper]](https://arxiv.org/pdf/2504.00424) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * THINKPRUNE: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2504.01296) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Think When You Need: Self-Adaptive Chain-of-Thought Learning [[Paper]](https://arxiv.org/pdf/2504.03234) ![](https://img.shields.io/badge/pdf-2025.04-red)
-* Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning (.) [[Paper]](https://arxiv.org/pdf/2505.11827) ![](https://img.shields.io/badge/pdf-2025.05-red)
-* ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models (.) [[Paper]](https://arxiv.org/pdf/2505.17250) ![](https://img.shields.io/badge/pdf-2025.05-red)
-* Bingo: Boosting Efficient Reasoning of LLMs via Dynamic and Significance-based Reinforcement Learning (.) [[Paper]](https://arxiv.org/pdf/2506.08125) ![](https://img.shields.io/badge/pdf-2025.06-red)
+* Concise Reasoning via Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2504.05185) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2505.11827) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models [[Paper]](https://arxiv.org/pdf/2505.17250) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Scalable Chain of Thoughts via Elastic Reasoning [[Paper]](https://arxiv.org/pdf/2505.05315) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models [[Paper]](https://arxiv.org/pdf/2505.07686) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning [[Paper]](https://arxiv.org/pdf/2505.11274) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Making Small Language Models Efficient Reasoners: Intervention, Supervision, Reinforcement [[Paper]](https://arxiv.org/pdf/2505.07961) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Efficient RL Training for Reasoning Models via Length-Aware Optimization [[Paper]](https://arxiv.org/pdf/2505.12284) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Optimizing Anytime Reasoning via Budget Relative Policy Optimization [[Paper]](https://arxiv.org/pdf/2505.13438) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Learn to Reason Efficiently with Adaptive Length-based Reward Shaping [[Paper]](https://arxiv.org/pdf/2505.15612) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Incentivizing Dual Process Thinking for Efficient Large Language Model Reasoning [[Paper]](https://arxiv.org/pdf/2505.16315) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling [[Paper]](https://arxiv.org/pdf/2505.19187) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2505.21178) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Stable Reinforcement Learning for Efficient Reasoning [[Paper]](https://arxiv.org/pdf/2505.18086) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models [[Paper]](https://arxiv.org/pdf/2505.21765) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Bingo: Boosting Efficient Reasoning of LLMs via Dynamic and Significance-based Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2506.08125) ![](https://img.shields.io/badge/pdf-2025.06-red)
 
 ## Section II: SFT with Variable-Length CoT Data
 
@@ -80,11 +93,17 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Can Language Models Learn to Skip Steps? [[Paper]](https://arxiv.org/pdf/2411.01855) ![](https://img.shields.io/badge/pdf-2024.11-red)
 * Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2502.13260) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Z1: Efficient Test-time Scaling with Code [[Paper]](https://arxiv.org/pdf/2504.00810) ![](https://img.shields.io/badge/pdf-2025.04-red)
-* Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models (.) [[Paper]](https://arxiv.org/pdf/2505.03469) ![](https://img.shields.io/badge/pdf-2025.05-red)
-* DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models (.) [[Paper]](https://arxiv.org/pdf/2505.13975) ![](https://img.shields.io/badge/pdf-2025.05-red)
-* AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models (.) [[Paper]](https://arxiv.org/pdf/2505.22662) ![](https://img.shields.io/badge/pdf-2025.05-red)
-* Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning (.) [[Paper]](https://arxiv.org/abs/2505.14582) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Ada-R1: Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization [[Paper]](https://arxiv.org/pdf/2504.21659) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2505.03469) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models [[Paper]](https://arxiv.org/pdf/2505.13975) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models [[Paper]](https://arxiv.org/pdf/2505.22662) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning [[Paper]](https://arxiv.org/abs/2505.14582) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* VeriThinker: Learning to Verify Makes Reasoning Model Efficient [[Paper]](https://arxiv.org/abs/2505.17941) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Assembly of Experts: Linear-time construction of the Chimera LLM variants with emergent and adaptable behaviors [[Paper]](https://arxiv.org/pdf/2506.14794) [[Model Card]](https://huggingface.co/tngtech/DeepSeek-TNG-R1T2-Chimera) [[Free access via OpenRouter]](https://openrouter.ai/tngtech/deepseek-r1t2-chimera:free) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search [[Paper]](https://arxiv.org/abs/2505.16838) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Not All Tokens Are What You Need In Thinking [[Paper]](https://arxiv.org/abs/2505.17827) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings [[Paper]](https://arxiv.org/abs/2505.24550) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* ConCISE: Confidence-guided Compression in Step-by-step Efficient Reasoning [[Paper]](https://arxiv.org/abs/2505.04881) ![](https://img.shields.io/badge/pdf-2025.05-red)
   
 ## Section III: Compressing Reasoning Steps into Fewer Latent Representation
 
@@ -97,8 +116,9 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation [[Paper]](https://arxiv.org/pdf/2502.21074) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Efficient Reasoning with Hidden Thinking [[Paper]](https://arxiv.org/pdf/2501.19201) ![](https://img.shields.io/badge/pdf-2025.01-red)
 * Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning [[Paper]](https://arxiv.org/pdf/2502.03275) ![](https://img.shields.io/badge/pdf-2025.02-red)
-* Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models (.) [[Paper]](https://arxiv.org/pdf/2502.10835) ![](https://img.shields.io/badge/pdf-2025.02-red)
-* Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains (.) [[Paper]](https://arxiv.org/pdf/2505.16552) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2502.10835) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* SEAL: Steerable Reasoning Calibration of Large Language Models for Free [[Paper]](https://arxiv.org/pdf/2504.07986) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains [[Paper]](https://arxiv.org/pdf/2505.16552) ![](https://img.shields.io/badge/pdf-2025.05-red)
 
 
 ## Section IV: Dynamic Reasoning Paradigm during Inference
@@ -135,7 +155,15 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.13367) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Dynamic Early Exit in Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.15895) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time [[Paper]](https://arxiv.org/pdf/2505.24863) ![](https://img.shields.io/badge/pdf-2025.05-red)
-* Accelerated Test-Time Scaling with Model-Free Speculative Sampling (.) [[Paper]](https://arxiv.org/abs/2506.04708) ![](https://img.shields.io/badge/pdf-2025.06-red)
+* Fractured Chain-of-Thought Reasoning [[Paper]](https://arxiv.org/pdf/2505.12992) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* FlashThink: An Early Exit Method For Efficient Reasoning [[Paper]](https://arxiv.org/abs/2505.13949) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning [[Paper]](https://arxiv.org/abs/2505.13866) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping [[Paper]](https://arxiv.org/abs/2505.08392) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy [[Paper]](https://arxiv.org/abs/2505.15684) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Plan and Budget: Effective and Efficient Test-Time Scaling on Large Language Model Reasoning [[Paper]](https://arxiv.org/abs/2505.16122) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling [[Paper]](https://arxiv.org/abs/2505.17155) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* CoThink: Token-Efficient Reasoning via Instruct Models Guiding Reasoning Models [[Paper]](https://arxiv.org/abs/2505.22017) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Accelerated Test-Time Scaling with Model-Free Speculative Sampling [[Paper]](https://arxiv.org/abs/2506.04708) ![](https://img.shields.io/badge/pdf-2025.06-red)
 
 ## Section V: Prompt-Guided Efficient Reasoning
 
