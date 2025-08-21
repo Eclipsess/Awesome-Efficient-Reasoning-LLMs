@@ -6,8 +6,6 @@
 <!-- [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]() --> 
 
 
-<!-- omit in toc -->
-
 ## [TMLR 2025] Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models
 
 <!-- omit in toc -->
