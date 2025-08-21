@@ -11,9 +11,11 @@
 ## 📢 Want to add related papers? Feel free to open a pull request!
 
 ## 📢 News
+- **August 21, 2025**: Updated.
+- **July 14, 2025**: "Stop Overthinking" is accepted by TMLR, Transactions on Machine Learning Research.
+- **April 22, 2025**: Updated.
 - **March 20, 2025**: We release the first survey for efficient reasoning of LLMs "[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.16419)".  
   Feel free to cite, contribute, or open a pull request to add recent related papers!
-- **April 22, 2025**: Updated.
   
 
 <!-- omit in toc -->
