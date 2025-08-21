@@ -8,7 +8,7 @@
 
 <!-- omit in toc -->
 
-## [TMLR 2025] [Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.16419)
+## [TMLR 2025] Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models
 
 <!-- omit in toc -->
 
