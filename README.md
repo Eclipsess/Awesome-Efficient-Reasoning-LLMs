@@ -189,6 +189,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Unlocking the capabilities of thought: A reasoning boundary framework to quantify and optimize chain-of-thought [[Paper]](https://arxiv.org/pdf/2410.05695) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.13367) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Dynamic Early Exit in Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.15895) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* Stop Spinning Wheels: Mitigating LLM Overthinking via Mining Patterns for Early Reasoning Exit [[Paper]](https://arxiv.org/abs/2508.17627) ![](https://img.shields.io/badge/pdf-2025.08-red)
 * AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time [[Paper]](https://arxiv.org/pdf/2505.24863) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers. [[Paper]](https://arxiv.org/pdf/2505.04842) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence. [[Paper]](https://arxiv.org/pdf/2505.20325) ![](https://img.shields.io/badge/pdf-2025.05-red)
