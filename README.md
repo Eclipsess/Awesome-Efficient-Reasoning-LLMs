@@ -277,7 +277,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * When reasoning meets compression: Benchmarking compressed large reasoning models on complex reasoning tasks. [[Paper]](https://arxiv.org/pdf/2504.02010) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Quantization Hurts Reasoning? An Empirical Study on Quantized Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.04823) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * A Technical Study into 0.5B Reasoning Language Models. [[Paper]](https://arxiv.org/pdf/2506.13404) ![](https://img.shields.io/badge/pdf-2025.06-red)
-
+* Revisiting Model Interpolation for Efficient Reasoning. [[Paper]](https://arxiv.org/pdf/2510.10977) ![](https://img.shields.io/badge/pdf-2025.10-red)
 
 
 ## Citation
