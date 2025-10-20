@@ -222,8 +222,9 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Large Reasoning Models Know How to Think Efficiently. [[Paper](https://openreview.net/forum?id=pLKDeGm2t1)]  ![](https://img.shields.io/badge/ESFoMoIII@ICML-2025-blue)
 * MUR: Momentum Uncertainty guided Reasoning for Large Language Models. [[Paper]](https://arxiv.org/abs/2507.14958) ![](https://img.shields.io/badge/pdf-2025.07-red)
 * Test-time Prompt Intervention. [[Paper]](https://arxiv.org/abs/2508.02511) ![](https://img.shields.io/badge/pdf-2025.08-red)
-* Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression. [[Paper]](https://arxiv.org/abs/2508.05337) ![](https://img.shields.io/badge/pdf-2025.08-red)‘
-* Entropy After `</Think>` for reasoning model early exiting [[Paper]](https://arxiv.org/abs/2509.26522)  ![](https://img.shields.io/badge/pdf-2025.09-red)‘
+* Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression. [[Paper]](https://arxiv.org/abs/2508.05337) ![](https://img.shields.io/badge/pdf-2025.08-red)
+* Entropy After `</Think>` for reasoning model early exiting [[Paper]](https://arxiv.org/abs/2509.26522)  ![](https://img.shields.io/badge/pdf-2025.09-red) (.)
+* Parallel-R1: Towards Parallel Thinking via Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2509.07980) ![](https://img.shields.io/badge/pdf-2025.09-red) (.)
 
 
 ## Section V: Prompt-Guided Efficient Reasoning
