@@ -36,20 +36,21 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 <!-- omit in toc -->
 ## 📚 Table of Contents
 
-- [Awesome-Efficient-Reasoning-LLM](#awesome-efficient-reasoning-llm)
-  - **Model-based Efficient Reasoning**
-    - [Section I: RL with Length Reward Design](#section-i-rl-with-length-reward-design)
-    - [Section II: SFT with Variable-Length CoT Data](#section-ii-sft-with-variable-length-cot-data)
-  - **Reasoning Output-based Efficient Reasoning**
-    - [Section III: Compressing Reasoning Steps into Fewer Latent Representation](#section-iii-compressing-reasoning-steps-into-fewer-latent-representation)
-    - [Section IV: Dynamic Reasoning Paradigm during Inference](#section-iv-dynamic-reasoning-paradigm-during-inference)
-  - **Input Prompt-based Efficient Reasoning**
-    - [Section V: Prompt-Guided Efficient Reasoning](#section-v-prompt-guided-efficient-reasoning)
-    - [Section VI: Prompts Attribute-Driven Reasoning Routing](#section-vi-prompts-attribute-driven-reasoning-routing)
-  - **Reasoning Abilities with Efficient Data and Small Language Models**
-    - [Section VII: Reasoning Abilities via Efficient Training Data and Model Compression](#section-vii-reasoning-abilities-via-efficient-training-data-and-model-compression)
-  - **Evaluation and Benchmark**
-    - [Section VIII: Evaluation and Benchmark](#section-viii-evaluation-and-benchmark)
+- [Awesome-Efficient-Reasoning-LLMs](#awesome-efficient-reasoning-llms)
+  - [\[TMLR 2025\] Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](#tmlr-2025-stop-overthinking-a-survey-on-efficient-reasoning-for-large-language-models)
+  - [📢 Want to add related papers? Feel free to open a pull request!](#-want-to-add-related-papers-feel-free-to-open-a-pull-request)
+  - [📢 News](#-news)
+  - [📊 Taxonomy](#-taxonomy)
+  - [Section I:  RL with Length Reward Design](#section-i--rl-with-length-reward-design)
+  - [Section II: SFT with Variable-Length CoT Data](#section-ii-sft-with-variable-length-cot-data)
+  - [Section III: Compressing Reasoning Steps into Fewer Latent Representation](#section-iii-compressing-reasoning-steps-into-fewer-latent-representation)
+  - [Section IV: Dynamic Reasoning Paradigm during Inference](#section-iv-dynamic-reasoning-paradigm-during-inference)
+  - [Section V: Prompt-Guided Efficient Reasoning](#section-v-prompt-guided-efficient-reasoning)
+  - [Section VI: Prompts Attribute-Driven Reasoning Routing](#section-vi-prompts-attribute-driven-reasoning-routing)
+  - [Section VII: Reasoning Abilities via Efficient Training Data and Model Compression](#section-vii-reasoning-abilities-via-efficient-training-data-and-model-compression)
+  - [Section VIII: Evaluation and Benchmark](#section-viii-evaluation-and-benchmark)
+  - [Citation](#citation)
+  - [Acknowledgment](#acknowledgment)
 
 
 ---
@@ -106,6 +107,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * SABER: Switchable and Balanced Training for Efficient LLM Reasoning.  [[Paper]](https://arxiv.org/abs/2508.10026) ![](https://img.shields.io/badge/pdf-2025.08-red)
 * Promoting Efficient Reasoning with Verifiable Stepwise Reward. [[Paper]](https://arxiv.org/abs/2508.10293) ![](https://img.shields.io/badge/pdf-2025.08-red)
 * Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models. [[Paper]](https://arxiv.org/abs/2508.11582) ![](https://img.shields.io/badge/pdf-2025.08-red)
+* Beyond Token Length: Step Pruner for Efficient and Accurate Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2510.03805) ![](https://img.shields.io/badge/pdf-2025.10-red)
 
 
 ## Section II: SFT with Variable-Length CoT Data
