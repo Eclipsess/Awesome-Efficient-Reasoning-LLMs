@@ -223,6 +223,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * MUR: Momentum Uncertainty guided Reasoning for Large Language Models. [[Paper]](https://arxiv.org/abs/2507.14958) ![](https://img.shields.io/badge/pdf-2025.07-red)
 * Test-time Prompt Intervention. [[Paper]](https://arxiv.org/abs/2508.02511) ![](https://img.shields.io/badge/pdf-2025.08-red)
 * Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression. [[Paper]](https://arxiv.org/abs/2508.05337) ![](https://img.shields.io/badge/pdf-2025.08-red)
+* Parallel-R1: Towards Parallel Thinking via Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2509.07980) ![](https://img.shields.io/badge/pdf-2025.09-red)
 
 
 ## Section V: Prompt-Guided Efficient Reasoning
