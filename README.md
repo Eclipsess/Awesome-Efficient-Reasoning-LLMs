@@ -269,6 +269,8 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Probe then retrieve and reason: Distilling probing and reasoning capabilities into smaller language models [[Paper]](https://arxiv.org/pdf/2212.00193) ![](https://img.shields.io/badge/pdf-2023.05-red)
 * TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers’ Guidance [[Paper]](https://arxiv.org/pdf/2503.24198) ![](https://img.shields.io/badge/pdf-2025.03-red)
 * When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks [[Paper]](https://arxiv.org/pdf/2504.02010) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* FROST: Filtering Reasoning Outliers with Attention for Efficient Reasoning [[Paper]](https://arxiv.org/abs/2601.19001) ![](https://img.shields.io/badge/ICLR-2026-blue)
+
 
 
 ## Section VIII: Evaluation and Benchmark
