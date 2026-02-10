@@ -159,6 +159,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 
 ## Section IV: Dynamic Reasoning Paradigm during Inference
 
+* DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching [[Paper]](https://arxiv.org/pdf/2511.00640) [[Code]](https://github.com/ZichengXu/Decoding-Tree-Sketching) [[Colab]](https://colab.research.google.com/github/ZichengXu/Decoding-Tree-Sketching/blob/main/notebooks/example_DeepSeek_R1_Distill_Qwen_1_5B.ipynb) ![](https://img.shields.io/badge/pdf-2024.12-red)
 * Efficiently Serving LLM Reasoning Programs with Certaindex [[Paper]](https://arxiv.org/pdf/2412.20993) ![](https://img.shields.io/badge/pdf-2024.12-red)
 * When More is Less: Understanding Chain-of-Thought Length in LLMs [[Paper]](https://arxiv.org/pdf/2502.07266) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching [[Paper]](https://arxiv.org/pdf/2503.05179) ![](https://img.shields.io/badge/pdf-2025.03-red)
