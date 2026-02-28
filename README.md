@@ -227,7 +227,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression. [[Paper]](https://arxiv.org/abs/2508.05337) ![](https://img.shields.io/badge/pdf-2025.08-red)
 * Entropy After `</Think>` for reasoning model early exiting [[Paper]](https://arxiv.org/abs/2509.26522)  ![](https://img.shields.io/badge/pdf-2025.09-red) (.)
 * Parallel-R1: Towards Parallel Thinking via Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2509.07980) ![](https://img.shields.io/badge/pdf-2025.09-red) (.)
-
+* DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching [[Paper]](https://arxiv.org/pdf/2511.00640) [[Code]](https://github.com/ZichengXu/Decoding-Tree-Sketching) [[Colab]](https://colab.research.google.com/github/ZichengXu/Decoding-Tree-Sketching/blob/main/notebooks/example_DeepSeek_R1_Distill_Qwen_1_5B.ipynb) ![](https://img.shields.io/badge/pdf-2026.02-red)
 
 ## Section V: Prompt-Guided Efficient Reasoning
 
