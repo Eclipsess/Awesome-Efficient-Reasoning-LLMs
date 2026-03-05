@@ -138,6 +138,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * ReCUT: Balancing Reasoning Length and Accuracy in LLMs via Stepwise Trails and Preference Optimization. [[Paper]](https://arxiv.org/abs/2506.10822) ![](https://img.shields.io/badge/pdf-2025.06-red)
 * Compressing Chain-of-Thought in LLMs via Step Entropy. [[Paper]](https://arxiv.org/pdf/2508.03346) ![](https://img.shields.io/badge/pdf-2025.08-red)
 * Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal. [[Paper]](https://arxiv.org/pdf/2508.05988) ![](https://img.shields.io/badge/pdf-2025.08-red)
+* The Art of Efficient Reasoning: Data, Reward, and Optimization [[Paper]](https://arxiv.org/pdf/2602.20945) [[Model Card]](https://huggingface.co/collections/taki555/the-art-of-efficient-reasoning) ![](https://img.shields.io/badge/pdf-2026.02-red)
 
   
 ## Section III: Compressing Reasoning Steps into Fewer Latent Representation
