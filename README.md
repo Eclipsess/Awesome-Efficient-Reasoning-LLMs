@@ -108,7 +108,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Promoting Efficient Reasoning with Verifiable Stepwise Reward. [[Paper]](https://arxiv.org/abs/2508.10293) ![](https://img.shields.io/badge/pdf-2025.08-red)
 * Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models. [[Paper]](https://arxiv.org/abs/2508.11582) ![](https://img.shields.io/badge/pdf-2025.08-red)
 * Beyond Token Length: Step Pruner for Efficient and Accurate Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2510.03805) ![](https://img.shields.io/badge/pdf-2025.10-red)
-
+* Constraint-Rectified Training for Efficient Chain-of-Thought [[Paper]](https://arxiv.org/abs/2602.12526) ![](https://img.shields.io/badge/pdf-2026.02-red) (.)
 
 ## Section II: SFT with Variable-Length CoT Data
 
