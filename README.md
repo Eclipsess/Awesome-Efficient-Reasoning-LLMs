@@ -251,6 +251,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 
 ## Section VII: Reasoning Abilities via Efficient Training Data and Model Compression
 
+* Learning from the Self-future: On-policy Self-distillation for dLLMs [[Paper]](https://arxiv.org/pdf/2606.18195) [[Code]](https://github.com/xingzhejun/d-opsd-code) ![](https://img.shields.io/badge/pdf-2026.06-red)
 * LIMO: Less is More for Reasoning [[Paper]](https://arxiv.org/pdf/2502.03387) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * s1: Simple test-time scaling [[Paper]](https://arxiv.org/pdf/2501.19393) ![](https://img.shields.io/badge/pdf-2025.03-red)
 * S2R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2502.12853) ![](https://img.shields.io/badge/pdf-2025.02-red)
