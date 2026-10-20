@@ -245,6 +245,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Learning to Route LLMs with Confidence Tokens [[Paper]](https://arxiv.org/pdf/2410.13284) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Confident or Seek Stronger: Exploring Uncertainty-Based On-device LLM Routing From Benchmarking to Generalization [[Paper]](https://arxiv.org/pdf/2502.04428) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * RouteLLM: Learning to Route LLMs with Preference Data [[Paper]](https://arxiv.org/pdf/2406.18665) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation [[Paper]](https://arxiv.org/pdf/2505.20182) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * ThinkSwitcher: When to Think Hard, When to Think Fast. [[Paper]](https://arxiv.org/pdf/2505.14183) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Long or short CoT? Investigating Instance-level Switch of Large Reasoning Models. [[Paper]](https://arxiv.org/pdf/2506.04182) ![](https://img.shields.io/badge/pdf-2025.06-red)
 * SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model. [[Paper]](https://arxiv.org/pdf/2507.02822) ![](https://img.shields.io/badge/pdf-2025.07-red)
