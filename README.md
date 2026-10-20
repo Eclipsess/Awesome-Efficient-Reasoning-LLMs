@@ -108,7 +108,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Promoting Efficient Reasoning with Verifiable Stepwise Reward. [[Paper]](https://arxiv.org/abs/2508.10293) ![](https://img.shields.io/badge/pdf-2025.08-red)
 * Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models. [[Paper]](https://arxiv.org/abs/2508.11582) ![](https://img.shields.io/badge/pdf-2025.08-red)
 * Beyond Token Length: Step Pruner for Efficient and Accurate Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2510.03805) ![](https://img.shields.io/badge/pdf-2025.10-red)
-
+* Constraint-Rectified Training for Efficient Chain-of-Thought [[Paper]](https://arxiv.org/abs/2602.12526) ![](https://img.shields.io/badge/pdf-2026.02-red) (.)
 
 ## Section II: SFT with Variable-Length CoT Data
 
@@ -209,6 +209,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * CoThink: Token-Efficient Reasoning via Instruct Models Guiding Reasoning Models [[Paper]](https://arxiv.org/abs/2505.22017) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning. [[Paper]](https://arxiv.org/abs/2505.15154) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time. [[Paper]](https://arxiv.org/abs/2505.24863) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Interleaved Reasoning for Large Language Models via Reinforcement Learning [[Paper]](https://arxiv.org/abs/2505.19640) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Every Rollout Counts: Optimal Resource Allocation for Efficient Test-Time Scaling. [[Paper]](https://arxiv.org/pdf/2506.15707) ![](https://img.shields.io/badge/pdf-2025.06-red)
 * SPECS: Faster Test-Time Scaling through Speculative Drafts. [[Paper]](https://arxiv.org/pdf/2506.15733) ![](https://img.shields.io/badge/pdf-2025.06-red)
 * BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute. [[Paper]](https://arxiv.org/pdf/2506.22716) ![](https://img.shields.io/badge/pdf-2025.06-red)
@@ -229,6 +230,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Parallel-R1: Towards Parallel Thinking via Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2509.07980) ![](https://img.shields.io/badge/pdf-2025.09-red) (.)
 * DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching [[Paper]](https://arxiv.org/pdf/2511.00640) [[Code]](https://github.com/ZichengXu/Decoding-Tree-Sketching) [[Colab]](https://colab.research.google.com/github/ZichengXu/Decoding-Tree-Sketching/blob/main/notebooks/example_DeepSeek_R1_Distill_Qwen_1_5B.ipynb) ![](https://img.shields.io/badge/pdf-2026.02-red)
 * Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models [[Paper]](https://arxiv.org/abs/2605.17672) [[Code]](https://github.com/giovanni-vaccarino/PUMA) ![](https://img.shields.io/badge/pdf-2026.05-red)
+* SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning [[Paper]](https://arxiv.org/pdf/2603.23483) ![](https://img.shields.io/badge/pdf-2026.03-red)
 
 ## Section V: Prompt-Guided Efficient Reasoning
 
@@ -246,12 +248,14 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Learning to Route LLMs with Confidence Tokens [[Paper]](https://arxiv.org/pdf/2410.13284) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * Confident or Seek Stronger: Exploring Uncertainty-Based On-device LLM Routing From Benchmarking to Generalization [[Paper]](https://arxiv.org/pdf/2502.04428) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * RouteLLM: Learning to Route LLMs with Preference Data [[Paper]](https://arxiv.org/pdf/2406.18665) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation [[Paper]](https://arxiv.org/pdf/2505.20182) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * ThinkSwitcher: When to Think Hard, When to Think Fast. [[Paper]](https://arxiv.org/pdf/2505.14183) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Long or short CoT? Investigating Instance-level Switch of Large Reasoning Models. [[Paper]](https://arxiv.org/pdf/2506.04182) ![](https://img.shields.io/badge/pdf-2025.06-red)
 * SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model. [[Paper]](https://arxiv.org/pdf/2507.02822) ![](https://img.shields.io/badge/pdf-2025.07-red)
 
 ## Section VII: Reasoning Abilities via Efficient Training Data and Model Compression
 
+* Learning from the Self-future: On-policy Self-distillation for dLLMs [[Paper]](https://arxiv.org/pdf/2606.18195) [[Code]](https://github.com/xingzhejun/d-opsd-code) ![](https://img.shields.io/badge/pdf-2026.06-red)
 * LIMO: Less is More for Reasoning [[Paper]](https://arxiv.org/pdf/2502.03387) ![](https://img.shields.io/badge/pdf-2025.02-red)
 * s1: Simple test-time scaling [[Paper]](https://arxiv.org/pdf/2501.19393) ![](https://img.shields.io/badge/pdf-2025.03-red)
 * S2R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2502.12853) ![](https://img.shields.io/badge/pdf-2025.02-red)
@@ -282,6 +286,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * When reasoning meets compression: Benchmarking compressed large reasoning models on complex reasoning tasks. [[Paper]](https://arxiv.org/pdf/2504.02010) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Quantization Hurts Reasoning? An Empirical Study on Quantized Reasoning Models [[Paper]](https://arxiv.org/pdf/2504.04823) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * A Technical Study into 0.5B Reasoning Language Models. [[Paper]](https://arxiv.org/pdf/2506.13404) ![](https://img.shields.io/badge/pdf-2025.06-red)
+* Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation [[Paper]](https://arxiv.org/pdf/2510.04265) ![](https://img.shields.io/badge/pdf-2025.10-red)
 * Revisiting Model Interpolation for Efficient Reasoning. [[Paper]](https://arxiv.org/pdf/2510.10977) ![](https://img.shields.io/badge/pdf-2025.10-red)
 * Do LLMs Really Need 10+ Thoughts for "Find the Time 1000 Days Later"? Towards Structural Understanding of LLM Overthinking [[Paper]](https://arxiv.org/abs/2510.07880) ![](https://img.shields.io/badge/pdf-2025.10-red)
 
