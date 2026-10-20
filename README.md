@@ -209,6 +209,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * CoThink: Token-Efficient Reasoning via Instruct Models Guiding Reasoning Models [[Paper]](https://arxiv.org/abs/2505.22017) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning. [[Paper]](https://arxiv.org/abs/2505.15154) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time. [[Paper]](https://arxiv.org/abs/2505.24863) ![](https://img.shields.io/badge/pdf-2025.05-red)
+* Interleaved Reasoning for Large Language Models via Reinforcement Learning [[Paper]](https://arxiv.org/abs/2505.19640) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Every Rollout Counts: Optimal Resource Allocation for Efficient Test-Time Scaling. [[Paper]](https://arxiv.org/pdf/2506.15707) ![](https://img.shields.io/badge/pdf-2025.06-red)
 * SPECS: Faster Test-Time Scaling through Speculative Drafts. [[Paper]](https://arxiv.org/pdf/2506.15733) ![](https://img.shields.io/badge/pdf-2025.06-red)
 * BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute. [[Paper]](https://arxiv.org/pdf/2506.22716) ![](https://img.shields.io/badge/pdf-2025.06-red)
