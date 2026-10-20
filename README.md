@@ -156,6 +156,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains [[Paper]](https://arxiv.org/pdf/2505.16552) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Overclocking LLM Reasoning: Monitoring and Controlling Thinking Path Lengths in LLMs [[Paper]](https://arxiv.org/pdf/2506.07240) ![](https://img.shields.io/badge/pdf-2025.06-red)
 * Controlling Thinking Speed in Reasoning Models. [[Paper]](https://arxiv.org/pdf/2507.03704) ![](https://img.shields.io/badge/pdf-2025.07-red)
+* Rethinking LLM Reasoning: From Explicit Trajectories to Latent Representations [[Paper]](https://proceedings.iclr.cc/paper_files/paper/2026/file/cc56ae4929d792351a66c39aafb4a34d-Paper-Conference.pdf) [[Code]](https://github.com/MobiusDai/LRT) ![](https://img.shields.io/badge/ICLR-2026-blue)
 
 ## Section IV: Dynamic Reasoning Paradigm during Inference
 
