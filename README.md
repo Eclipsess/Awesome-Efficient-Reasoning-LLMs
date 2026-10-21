@@ -110,6 +110,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * Beyond Token Length: Step Pruner for Efficient and Accurate Reasoning in Large Language Models [[Paper]](https://arxiv.org/pdf/2510.03805) ![](https://img.shields.io/badge/pdf-2025.10-red)
 * The Art of Efficient Reasoning: Data, Reward, and Optimization [[Paper]](https://arxiv.org/pdf/2602.20945) [[Model Card]](https://huggingface.co/collections/taki555/the-art-of-efficient-reasoning) ![](https://img.shields.io/badge/pdf-2026.02-red)
 * Constraint-Rectified Training for Efficient Chain-of-Thought [[Paper]](https://arxiv.org/abs/2602.12526) ![](https://img.shields.io/badge/pdf-2026.02-red) (.)
+* Structured Reasoning for LLMs: A Unified Framework for Efficiency and Explainability [[Paper]](https://proceedings.iclr.cc/paper_files/paper/2026/hash/ad5b3f324b24c17cdc2f3712298c76bd-Abstract-Conference.html) [[Code]](https://github.com/cnsdqd-dyb/Enhancing-Large-Language-Models-through-Structured-Reasoning) ![](https://img.shields.io/badge/ICLR-2026-blue)
 
 ## Section II: SFT with Variable-Length CoT Data
 
