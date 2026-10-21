@@ -72,6 +72,7 @@ Below is a taxonomy graph summarizing the current landscape of efficient reasoni
 * THINKPRUNE: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2504.01296) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Think When You Need: Self-Adaptive Chain-of-Thought Learning [[Paper]](https://arxiv.org/pdf/2504.03234) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Concise Reasoning via Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2504.05185) ![](https://img.shields.io/badge/pdf-2025.04-red)
+* LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard [[Paper]](https://arxiv.org/pdf/2504.13125) ![](https://img.shields.io/badge/pdf-2025.04-red)
 * Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2505.11827) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models [[Paper]](https://arxiv.org/pdf/2505.17250) ![](https://img.shields.io/badge/pdf-2025.05-red)
 * Scalable Chain of Thoughts via Elastic Reasoning [[Paper]](https://arxiv.org/pdf/2505.05315) ![](https://img.shields.io/badge/pdf-2025.05-red)
